@@ -46,7 +46,7 @@ const SideBar = () => {
               <span
                 className={` ${!open && "hidden"} origin-left duration-200`}
               >
-                Documentos
+                Document
               </span>
             </Link>
           </li>
